@@ -1,4 +1,4 @@
-# Entertainment Hub
+# Leisure Hub
 <table>
 <tr>
 <td>
